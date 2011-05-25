@@ -1,0 +1,69 @@
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\bin\Debug\inpout32.dll
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\ResolveAssemblyReference.cache
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Door_Bell_Server.FormServer1.resources
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Doorbell_Server.Properties.Resources.resources
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Doorbell Server.csproj.GenerateResource.Cache
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Doorbell Server.exe
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Doorbell Server.pdb
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\bin\Debug\Doorbell Server.exe
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\bin\Debug\Doorbell Server.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\obj\Debug\Doorbell Server.exe
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\obj\Debug\Doorbell Server.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\bin\Debug\inpout32.dll
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\bin\Debug\Installer.nsi
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\bin\Debug\Doorbell Server.exe
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\bin\Debug\Doorbell Server.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\obj\Debug\ResolveAssemblyReference.cache
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\obj\Debug\Door_Bell_Server.FormServer1.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\obj\Debug\Doorbell_Server.Properties.Resources.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Server\obj\Debug\Doorbell Server.csproj.GenerateResource.Cache
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.exe
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\icon.ico
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\inpout32.dll
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Installer.nsi
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Doorbell Server.exe
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Doorbell Server.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\ResolveAssemblyReference.cache
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Door_Bell_Server.FormServer1.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell_Server.Properties.Resources.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.csproj.GenerateResource.Cache
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\icon.ico
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\inpout32.dll
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Installer.nsi
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Doorbell Server.exe
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Doorbell Server.pdb
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Door_Bell_Server.FormServer1.resources
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell_Server.Properties.Resources.resources
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.csproj.GenerateResource.Cache
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.exe
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.pdb
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\icon.ico
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\inpout32.dll
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Installer.nsi
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Doorbell Server.exe
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Doorbell Server.pdb
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\ResolveAssemblyReference.cache
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell_Server.Properties.Resources.resources
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.csproj.GenerateResource.Cache
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.exe
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.pdb
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell_Server.FormServer1.resources
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\Buttons\1.btn
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\clientlist.conf
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\bin\Debug\icon.ico
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\bin\Debug\inpout32.dll
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\bin\Debug\Buttons\1.btn
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\bin\Debug\clientlist.conf
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\bin\Debug\Installer.nsi
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\bin\Debug\Doorbell Server.exe
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\bin\Debug\Doorbell Server.pdb
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\obj\Debug\ResolveAssemblyReference.cache
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell_Server.FormServer1.resources
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell_Server.Properties.Resources.resources
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.csproj.GenerateResource.Cache
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.exe
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\obj\Debug\Doorbell Server.pdb
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Server\bin\Debug\readme.txt
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Server\bin\Debug\readme.txt

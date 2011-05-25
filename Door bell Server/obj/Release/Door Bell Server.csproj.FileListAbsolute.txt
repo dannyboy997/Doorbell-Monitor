@@ -1,0 +1,4 @@
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Release\ResolveAssemblyReference.cache
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Release\Door_Bell_Server.FormServer1.resources
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Release\Door_Bell_Server.Properties.Resources.resources
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Release\Door Bell Server.csproj.GenerateResource.Cache

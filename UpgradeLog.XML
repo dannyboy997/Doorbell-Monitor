@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Doorbell Server">
+</Property><Property Name="Solution File" Value="X:\Projects\C#\Doorbell Monitor\Doorbell Server.sln">
+</Property><Property Name="User Options File" Value="X:\Projects\C#\Doorbell Monitor\Doorbell Server.suo">
+</Property><Property Name="Date" Value="Wednesday, January 26, 2011">
+</Property><Property Name="Time" Value="6:13 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Doorbell Server.sln" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Doorbell Server.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Doorbell Server.suo" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Doorbell Server.suo">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Doorbell Server.csproj" Description="Project file successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Doorbell Server.csproj">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Doorbell Server.csproj.user" Description="Project user file successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Doorbell Server.csproj.user">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Form1.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Form1.Designer.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\IOControl.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\IOControl.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Program.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Program.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Properties\AssemblyInfo.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Properties\Resources.Designer.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Properties\Settings.Designer.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Settings.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Settings.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\TCPClient.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\TCPClient.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Buttons\1.btn" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Buttons\1.btn">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\clientlist.conf" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\clientlist.conf">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Installer.nsi" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Installer.nsi">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Properties\Settings.settings" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\icon.ico" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\icon.ico">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\inpout32.dll" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\inpout32.dll">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\readme.txt" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\readme.txt">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Form1.resx" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Properties\Resources.resx" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Server\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Doorbell Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Doorbell Server" Source="Door Bell Server\Doorbell Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Doorbell Client.csproj" Description="Project file successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Doorbell Client.csproj">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Doorbell Client.csproj.user" Description="Project user file successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Doorbell Client.csproj.user">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Form1.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Form1.Designer.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Program.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Program.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Properties\AssemblyInfo.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Properties\Resources.Designer.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Properties\Settings.Designer.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Settings.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Settings.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\TCPServer.cs" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\TCPServer.cs">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Installer.nsi" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Installer.nsi">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Properties\Settings.settings" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\chimes.wav" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\chimes.wav">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\icon.ico" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\icon.ico">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Form1.resx" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Properties\Resources.resx" Description="File successfully backed up as X:\Projects\C#\Doorbell Monitor\Backup\Door Bell Client\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Doorbell Client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Doorbell Client" Source="Door Bell Client\Doorbell Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Doorbell Server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Doorbell Server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Doorbell Server" Source="Door Bell Server\Doorbell Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Doorbell Client" Source="Door Bell Client\Doorbell Client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

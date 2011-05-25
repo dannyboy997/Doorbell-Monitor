@@ -1,0 +1,9 @@
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\ResolveAssemblyReference.cache
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Door_Bell_Server.Properties.Resources.resources
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Door Bell Server.csproj.GenerateResource.Cache
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\bin\Debug\Door Bell Server.exe
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\bin\Debug\Door Bell Server.pdb
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Door Bell Server.exe
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Door Bell Server.pdb
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\obj\Debug\Door_Bell_Server.FormServer1.resources
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Server\bin\Debug\inpout32.dll

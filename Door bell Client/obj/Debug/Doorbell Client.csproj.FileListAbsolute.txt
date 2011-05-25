@@ -1,0 +1,62 @@
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Client\bin\Debug\Doorbell Client.exe
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Client\bin\Debug\Doorbell Client.pdb
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Client\obj\Debug\ResolveAssemblyReference.cache
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Client\obj\Debug\Doorbell_Client.Properties.Resources.resources
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Client\obj\Debug\Doorbell Client.csproj.GenerateResource.Cache
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Client\obj\Debug\Doorbell Client.exe
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Client\obj\Debug\Doorbell Client.pdb
+S:\Profiles\Documents\Projects\C#\Door Bell Server\Door Bell Client\obj\Debug\Doorbell_Client.FormClient.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\bin\Debug\Installer.nsi
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\bin\Debug\Doorbell Client.exe
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\bin\Debug\Doorbell Client.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\obj\Debug\ResolveAssemblyReference.cache
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\obj\Debug\Doorbell_Client.FormClient.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\obj\Debug\Doorbell_Client.Properties.Resources.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\obj\Debug\Doorbell Client.csproj.GenerateResource.Cache
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\obj\Debug\Doorbell Client.exe
+S:\Profiles\Documents\Projects\C#\Doorbell Server\Door Bell Client\obj\Debug\Doorbell Client.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\icon.ico
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Installer.nsi
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Doorbell Client.exe
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Doorbell Client.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\ResolveAssemblyReference.cache
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell_Client.FormClient.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell_Client.Properties.Resources.resources
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.csproj.GenerateResource.Cache
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.exe
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.pdb
+S:\Profiles\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Media\chimes.wav
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\icon.ico
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Media\chimes.wav
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Installer.nsi
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Doorbell Client.exe
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Doorbell Client.pdb
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell_Client.FormClient.resources
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell_Client.Properties.Resources.resources
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.csproj.GenerateResource.Cache
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.exe
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.pdb
+Z:\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\chimes.wav
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.exe
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.pdb
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\ResolveAssemblyReference.cache
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell_Client.FormClient.resources
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell_Client.Properties.Resources.resources
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.csproj.GenerateResource.Cache
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\chimes.wav
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\icon.ico
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Installer.nsi
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Doorbell Client.exe
+Z:\profile.V2\Documents\Projects\C#\Doorbell Monitor\Door Bell Client\bin\Debug\Doorbell Client.pdb
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\bin\Debug\chimes.wav
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\bin\Debug\icon.ico
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\bin\Debug\Installer.nsi
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\bin\Debug\Doorbell Client.exe
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\bin\Debug\Doorbell Client.pdb
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\obj\Debug\ResolveAssemblyReference.cache
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell_Client.FormClient.resources
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell_Client.Properties.Resources.resources
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.csproj.GenerateResource.Cache
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.exe
+T:\Daniel H\Doorbell Monitor\Source\Doorbell Monitor\Door Bell Client\obj\Debug\Doorbell Client.pdb

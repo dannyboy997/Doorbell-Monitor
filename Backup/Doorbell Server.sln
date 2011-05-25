@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doorbell Server", "Door Bell Server\Doorbell Server.csproj", "{0D3245FA-E491-4DD0-88FA-CC10287C356B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doorbell Client", "Door Bell Client\Doorbell Client.csproj", "{988AA4C3-7363-4A7B-B141-C759955AFA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3245FA-E491-4DD0-88FA-CC10287C356B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3245FA-E491-4DD0-88FA-CC10287C356B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3245FA-E491-4DD0-88FA-CC10287C356B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3245FA-E491-4DD0-88FA-CC10287C356B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988AA4C3-7363-4A7B-B141-C759955AFA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988AA4C3-7363-4A7B-B141-C759955AFA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988AA4C3-7363-4A7B-B141-C759955AFA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988AA4C3-7363-4A7B-B141-C759955AFA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
